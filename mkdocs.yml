@@ -1,0 +1,11 @@
+docs_dir: doc/book
+site_dir: doc/html
+pages:
+    - index.md
+    - Overview: overview.md
+    - Reference:
+        - "Reference": ref.md
+site_name: phossa2/orm
+site_description: phossa2/orm
+repo_url: 'https://github.com/phossa2/orm'
+copyright: 'Copyright (c) 2016 Phossa.com</a>'
